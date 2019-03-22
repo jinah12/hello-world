@@ -1,2 +1,4 @@
 # hello-world
-To initialize the first repository
+
+Hi there!
+I'm just trying to make my first commit on Github.
